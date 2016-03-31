@@ -219,6 +219,9 @@ Thumbs.db
 extern/Release-iphoneos
 extern/Release-iphonesimulator
 extern/Release-iphoneuniversal
-extern/TTTAttributedLabel
-extern/Xamarin.TTTAttributedLabel.*
-
+extern/SWRevealViewController
+extern/Xamarin.SWRevealViewController.*
+extern/Podfile
+extern/Podfile.lock
+extern/Pods
+extern/build

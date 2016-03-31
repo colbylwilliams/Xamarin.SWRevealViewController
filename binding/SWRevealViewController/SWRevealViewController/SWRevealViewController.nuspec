@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Xamarin.SWRevealViewController</id>
+    <version>2.3.0</version>
+    <title>Xamarin.SWRevealViewController</title>
+    <authors>Colby Williams</authors>
+    <owners>Colby Williams</owners>
+    <projectUrl>https://github.com/colbylwilliams/Xamarin.SWRevealViewController</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin.iOS binding for SWRevealViewController</description>
+    <releaseNotes>Initial binding release.</releaseNotes>
+    <copyright>Copyright © 2016 Colby Williams</copyright>
+    <tags>Xamarin Xamarin.iOS iOS Unified SWRevealViewController Drawer Menu</tags>
+  </metadata>
+  <files>
+    <file src="bin/Release/Xamarin.SWRevealViewController.dll" target="lib\Xamarin.iOS\Xamarin.SWRevealViewController.dll" />
+  </files>
+</package>
